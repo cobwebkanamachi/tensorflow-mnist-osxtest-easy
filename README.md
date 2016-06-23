@@ -1,1 +1,1 @@
-# tensorflow-mnist-osxtest-easy-
+# tensorflow-mnist-osxtest-easy
