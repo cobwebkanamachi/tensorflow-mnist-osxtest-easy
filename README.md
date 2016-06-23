@@ -1,4 +1,5 @@
 # tensorflow-mnist-osxtest-easy<BR>
+<pre>
 This is a repository for testing tensorflow on osx for easy attitude.<BR>
 <BR>
 1. motivation<BR>
@@ -75,3 +76,4 @@ step 800, training accuracy 0.98<BR>
 :<BR>
 :<BR>
 It is OK!.<BR>
+</pre>
