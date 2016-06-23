@@ -1,6 +1,7 @@
 # tensorflow-mnist-osxtest-easy<BR>
 <pre>
 This is a repository for testing tensorflow on osx for easy attitude.<BR>
+osx 10.10.5/mac mini (late 2012)/mem 4gb/no gpus.
 <BR>
 1. motivation<BR>
 I saw Keras with tensorflow here.<BR>
